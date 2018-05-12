@@ -33,7 +33,7 @@ inc();
 function makeInt(n) {
   return parseInt('n');
 } 
-makeInt('10');
+makeInt('250');
 
 function makeInt() {
   
