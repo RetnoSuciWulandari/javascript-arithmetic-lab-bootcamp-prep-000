@@ -21,5 +21,5 @@ function divide(a, b) {
 add();
 
 function inc(n) {
-  return n++
+  return n++;
 }
