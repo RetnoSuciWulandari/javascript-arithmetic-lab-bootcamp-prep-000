@@ -23,7 +23,9 @@ add();
 function inc(n) {
   return n++;
 }
+inc();
 
 function dec(n) {
   return n--;
 }
+inc();
