@@ -1,7 +1,8 @@
 var a, b;
 
 function add(a, b) {
-  console.log(a + b);
+  c = a + b;
+  console.log(c);
 }
 
 add();
