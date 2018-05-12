@@ -19,3 +19,7 @@ function divide(a, b) {
   return a / b;
 }
 add();
+
+function inc(n) {
+  return n++
+}
