@@ -34,3 +34,7 @@ function makeInt(n) {
   return parseInt('n');
 } 
 makeInt();
+
+function makeInt() {
+  
+}
